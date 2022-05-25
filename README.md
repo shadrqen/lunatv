@@ -1,4 +1,4 @@
-# lunatv.com (lunatv)
+# astratv.co.ke (astratv)
 
 A platform that provides latest breaking local and international news on politics, sports and business among others
 
