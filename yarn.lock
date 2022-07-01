@@ -103,10 +103,10 @@
     vite "2.9.1"
     webpack-merge "^5.8.0"
 
-"@quasar/extras@^1.0.0":
-  version "1.14.0"
-  resolved "https://registry.yarnpkg.com/@quasar/extras/-/extras-1.14.0.tgz#cbdb2c8ea8f9ef551adea28592bf9f9f6c1c5165"
-  integrity sha512-4qVLqiKHV8tpvj/VgyxI5FlWCwQvWQzq15xlLeCDpzLOGeJruUXs+QCAB5gFgdDHPbU2ax2YgAxyGoQSCS7ACw==
+"@quasar/extras@^1.14.2":
+  version "1.14.2"
+  resolved "https://registry.yarnpkg.com/@quasar/extras/-/extras-1.14.2.tgz#a5382ec83ddf967f8bc17d0dbe6ef88ddb31b796"
+  integrity sha512-F9T1aIhRIiuJeuxPCu2CBlPj5js6mBZWQOAHHyVlreNa5qhVEHhr/9GfljG6RTnjvTNOjJraTl0hi8g0IuUfLw==
 
 "@quasar/fastclick@1.1.5":
   version "1.1.5"
