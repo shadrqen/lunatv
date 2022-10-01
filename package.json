@@ -21,7 +21,7 @@
   "devDependencies": {
     "@quasar/app-vite": "^1.0.0",
     "@types/node": "^17.0.38",
-    "@typescript-eslint/eslint-plugin": "^5.27.0",
+    "@typescript-eslint/eslint-plugin": "^5.38.1",
     "@typescript-eslint/parser": "^5.27.0",
     "autoprefixer": "^10.4.2",
     "eslint": "^8.16.0",
